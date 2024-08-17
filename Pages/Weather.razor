@@ -28,7 +28,7 @@
                 <th>Date</th>
                 <th>Latitude</th>
                 <th>Longitude</th>
-                <th>Temp. (K)</th>
+                <th>Temp. (F)</th>
                 <th>Summary</th>
             </tr>
         </thead>
@@ -37,7 +37,7 @@
                 <td>@DateTimeOffset.FromUnixTimeSeconds(weatherInfo.Current.Dt).DateTime.ToShortDateString()</td>
                 <td>@weatherInfo.Lat</td>
                 <td>@weatherInfo.Lon</td>
-                <td>@weatherInfo.Current.Temp</td>
+                <td>@((weatherInfo.Current.Temp - 273.15) * 9 / 5 + 32)</td>
                 <td>@(weatherInfo.Daily.Length > 0 ? weatherInfo.Daily[0].Summary : weatherInfo.Current.Weather[0].Description)</td>
             </tr>
         </tbody>

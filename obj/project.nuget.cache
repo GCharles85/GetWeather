@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zqj26Dq0HYE=",
+  "dgSpecHash": "YUIcFTLIkeo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gchar\\Documents\\MyBlazorApp\\MyBlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\Gchar\\Documents\\GetWeather\\MyBlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gchar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.8\\microsoft.aspnetcore.authorization.8.0.8.nupkg.sha512",
     "C:\\Users\\Gchar\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.8\\microsoft.aspnetcore.components.8.0.8.nupkg.sha512",

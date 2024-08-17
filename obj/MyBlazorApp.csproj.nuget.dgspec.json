@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gchar\\Documents\\MyBlazorApp\\MyBlazorApp.csproj": {}
+    "C:\\Users\\Gchar\\Documents\\GetWeather\\MyBlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gchar\\Documents\\MyBlazorApp\\MyBlazorApp.csproj": {
+    "C:\\Users\\Gchar\\Documents\\GetWeather\\MyBlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gchar\\Documents\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\Gchar\\Documents\\GetWeather\\MyBlazorApp.csproj",
         "projectName": "MyBlazorApp",
-        "projectPath": "C:\\Users\\Gchar\\Documents\\MyBlazorApp\\MyBlazorApp.csproj",
+        "projectPath": "C:\\Users\\Gchar\\Documents\\GetWeather\\MyBlazorApp.csproj",
         "packagesPath": "C:\\Users\\Gchar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gchar\\Documents\\MyBlazorApp\\obj\\",
+        "outputPath": "C:\\Users\\Gchar\\Documents\\GetWeather\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gchar\\AppData\\Roaming\\NuGet\\NuGet.Config"
